@@ -1,11 +1,11 @@
-# Olá, eu sou o Felipe 👋
+# Oi, eu sou o Felipe Rocha Torres 👋🏻
 
-Estudante de Informática (Front-End) na **UNICID** e iniciante em engenharia de software. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui.
+Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui.
 
-## 🚀 Sobre mim
+## 👑 Sobre mim
 
-- 🎓 Cursando Curso Superior de Informática (Front-End) na UNICID
-- 🌱 Aprendendo engenharia de software com cursos gratuitos (CS50, freeCodeCamp, Fundação Bradesco, IFRS)
+- 🎓 Cursando Curso Superior de Engenharia de Software na UNICID
+- 🌐 Aprendendo engenharia de software com cursos gratuitos (CS50, freeCodeCamp, Fundação Bradesco, IFRS)
 - 💡 Interessado em acessibilidade, impacto social e tecnologia sustentável
 - 🤖 Explorando Machine Learning e vibe coding (participei do 6º WECTI)
 
@@ -51,7 +51,7 @@ Estudante de Informática (Front-End) na **UNICID** e iniciante em engenharia de
 
 ## 🌍 Projeto em destaque
 
-**[Byte Solar](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO)**: site institucional de uma ONG fictícia que recupera computadores descartados, instala recursos de acessibilidade (leitor de tela, lupa digital, Libras) e doa para escolas públicas. Também reaproveita baterias de notebooks para armazenar energia solar. Feito em HTML5 com 10 páginas interligadas.
+**[Recicla Tech](https://github.com/arthur-fm123/U-UNICID-ADS-ENG-FRONTEND-2260028-N4-2-2026-M-RECICLATECH)**: site institucional de uma ONG fictícia que recupera computadores descartados, instala recursos de acessibilidade (leitor de tela, lupa digital, Libras) e doa para escolas públicas. Também reaproveita baterias de notebooks para armazenar energia solar. Feito em HTML5 com 10 páginas interligadas.
 
 ## 🏅 Cursos concluídos
 
@@ -65,12 +65,13 @@ Estudante de Informática (Front-End) na **UNICID** e iniciante em engenharia de
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/SEU-PERFIL)
+](https://www.linkedin.com/in/felipe-rocha-torres-0622b3373/)
 [
 
 ![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:SEU-EMAIL@exemplo.com)
+](mailto:feliperochatorres9@gmail.com)
 
 ---
-⭐ Sempre aprendendo, um commit de cada vez.
+
+🚀 Sempre aprendendo, um commit de cada vez.
