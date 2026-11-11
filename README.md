@@ -1,6 +1,11 @@
 # Felipe Rocha Torres 
 
-Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui. [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/felipe-rocha-torres-0622b3373/)
+Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui. 
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/felipe-rocha-torres-0622b3373/)
 
 
 ## 👑 Sobre mim
