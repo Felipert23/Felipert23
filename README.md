@@ -1,4 +1,4 @@
-# Felipe Rocha Torres 
+# 💻 Felipe Rocha Torres 
 
 Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui.
 
