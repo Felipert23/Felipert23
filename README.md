@@ -1,6 +1,7 @@
-# Oi, eu sou o Felipe Rocha Torres 👋🏻
+# Felipe Rocha Torres 
 
-Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui.
+Estudante de Engenharia de Software na UNICID. Estou construindo minha base em programação, banco de dados e desenvolvimento web, e registrando a jornada aqui. [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/felipe-rocha-torres-0622b3373/)
+
 
 ## 👑 Sobre mim
 
@@ -49,29 +50,16 @@ Estudante de Engenharia de Software na UNICID. Estou construindo minha base em p
 - SQL e MySQL: `INSERT`, `UPDATE`, `DELETE`, `JOIN`, `GROUP BY`
 - Análise e projeto de software
 
-## 🌍 Projeto em destaque
+## 🌍 Projetos em destaque
 
-**[Recicla Tech](https://github.com/arthur-fm123/U-UNICID-ADS-ENG-FRONTEND-2260028-N4-2-2026-M-RECICLATECH)**: site institucional de uma ONG fictícia que recupera computadores descartados, instala recursos de acessibilidade (leitor de tela, lupa digital, Libras) e doa para escolas públicas. Também reaproveita baterias de notebooks para armazenar energia solar. Feito em HTML5 com 10 páginas interligadas.
+** ♻ [Recicla Tech](https://github.com/arthur-fm123/U-UNICID-ADS-ENG-FRONTEND-2260028-N4-2-2026-M-RECICLATECH)**: site institucional que recolhe computadores e notebooks descartados, recupera os equipamentos e os adapta para pessoas com deficiência antes de doá-los a escolas públicas.
+
+** 💎 [ERP Sibels Elegance](https://github.com/arthur-fm123/projeto-erp-sibels-elegance)**: A Sibels Elegance é uma microempresa familiar administrada por mãe e filho, que vende colares e pulseiras com pedras naturais. Funciona como loja virtual, sem loja física e sem marketplace. O trabalho percorre todo o caminho do problema real ao banco de dados: levantamento com a dona do negócio, processos, problemas, requisitos, regras de negócio, modelo conceitual (DER em notação de Chen), modelo lógico e script SQL para MySQL.
 
 ## 🏅 Cursos concluídos
 
 - Linguagem de Programação Python: Básico (Fundação Bradesco, 18h)
 - Análise e Projeto de Software (IFRS, 20h)
 - 6º WECTI: palestra "Vibe coding" e Oficina de Machine Learning (UNICID)
-
-## 📫 Contato
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/felipe-rocha-torres-0622b3373/)
-[
-
-![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:feliperochatorres9@gmail.com)
-
----
 
 🚀 Sempre aprendendo, um commit de cada vez.
